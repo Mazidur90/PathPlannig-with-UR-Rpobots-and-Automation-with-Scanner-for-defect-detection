@@ -1,0 +1,1801 @@
+2024-05-21 17:48:59,161 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 17:49:00,161 - API - INFO - Callback registered successfully.
+2024-05-21 17:50:42,714 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 17:50:43,716 - API - INFO - Callback registered successfully.
+2024-05-21 17:51:22,160 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-21 17:51:30,161 - API - INFO - Sn3DSetScanMode 
+2024-05-21 17:51:30,161 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 17:51:30,161 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 17:51:32,964 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 17:51:33,984 - API - INFO - Sn3DNewProject 
+2024-05-21 17:51:33,984 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 17:51:33,984 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 17:51:35,148 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-21 17:51:36,149 - API - INFO - Sn3DSetScanPars 
+2024-05-21 17:51:36,149 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-21 17:51:36,149 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-21 17:51:36,149 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-21 17:51:36,149 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-21 17:51:39,151 - API - INFO - Sn3DSetLaserGrade 
+2024-05-21 17:51:39,152 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-21 17:51:39,152 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-21 17:51:39,152 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-21 17:51:39,152 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-21 17:51:40,154 - API - INFO - Sn3DChangeBrightStep 
+2024-05-21 17:51:40,155 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-21 17:51:40,155 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-21 17:51:40,155 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-21 17:51:40,155 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-21 17:51:41,157 - API - INFO - Sn3DSetScanObject 
+2024-05-21 17:51:41,158 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 17:51:41,158 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-21 17:51:41,158 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-21 17:51:41,158 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-21 18:00:03,066 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:00:04,066 - API - INFO - Callback registered successfully.
+2024-05-21 18:00:42,847 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-21 18:00:50,849 - API - INFO - Sn3DSetScanMode 
+2024-05-21 18:00:50,849 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:00:50,849 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 18:00:53,563 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 18:00:54,567 - API - INFO - Sn3DNewProject 
+2024-05-21 18:00:54,567 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:00:54,567 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 18:00:55,563 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-21 18:00:56,565 - API - INFO - Sn3DSetScanPars 
+2024-05-21 18:00:56,565 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:00:56,565 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-21 18:00:56,565 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-21 18:00:56,565 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-21 18:00:59,566 - API - INFO - Sn3DSetLaserGrade 
+2024-05-21 18:00:59,566 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:00:59,566 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-21 18:00:59,566 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-21 18:00:59,567 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-21 18:01:00,568 - API - INFO - Sn3DChangeBrightStep 
+2024-05-21 18:01:00,568 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:01:00,568 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-21 18:01:00,568 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-21 18:01:00,568 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-21 18:01:01,570 - API - INFO - Sn3DSetScanObject 
+2024-05-21 18:01:01,570 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:01:01,570 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-21 18:01:01,570 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-21 18:01:01,570 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-21 18:02:53,817 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:02:54,818 - API - INFO - Callback registered successfully.
+2024-05-21 18:02:55,209 - API - ERROR - Sn3DLaunchService function can not start, FreeScan.exe is already running.
+2024-05-21 18:03:03,212 - API - INFO - Sn3DSetScanMode 
+2024-05-21 18:03:03,212 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:03:03,212 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 18:03:05,938 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 18:03:06,941 - API - INFO - Sn3DNewProject 
+2024-05-21 18:03:06,941 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:03:06,941 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 18:03:07,833 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-21 18:03:08,835 - API - INFO - Sn3DSetScanPars 
+2024-05-21 18:03:08,835 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:03:08,835 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-21 18:03:08,835 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-21 18:03:08,835 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-21 18:03:11,837 - API - INFO - Sn3DSetLaserGrade 
+2024-05-21 18:03:11,837 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:03:11,837 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-21 18:03:11,837 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-21 18:03:11,837 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-21 18:03:12,839 - API - INFO - Sn3DChangeBrightStep 
+2024-05-21 18:03:12,839 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:03:12,840 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-21 18:03:12,840 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-21 18:03:12,840 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-21 18:03:13,841 - API - INFO - Sn3DSetScanObject 
+2024-05-21 18:03:13,842 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:03:13,842 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-21 18:03:13,842 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-21 18:03:13,842 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-21 18:03:14,844 - API - INFO - Sn3DStartScan 
+2024-05-21 18:03:14,844 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:03:14,844 - API - INFO - Sn3DStartScan function starts...
+2024-05-21 18:03:14,844 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-21 18:03:14,844 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-21 18:08:41,178 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:08:42,179 - API - INFO - Callback registered successfully.
+2024-05-21 18:09:20,902 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-21 18:09:28,904 - API - INFO - Sn3DSetScanMode 
+2024-05-21 18:09:28,904 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:09:28,904 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 18:09:31,637 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 18:09:32,641 - API - INFO - Sn3DNewProject 
+2024-05-21 18:09:32,642 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:09:32,642 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 18:09:33,636 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-21 18:09:34,637 - API - INFO - Sn3DSetScanPars 
+2024-05-21 18:09:34,637 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:09:34,637 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-21 18:09:34,637 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-21 18:09:34,637 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-21 18:09:37,638 - API - INFO - Sn3DSetLaserGrade 
+2024-05-21 18:09:37,639 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:09:37,639 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-21 18:09:37,639 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-21 18:09:37,639 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-21 18:09:38,640 - API - INFO - Sn3DChangeBrightStep 
+2024-05-21 18:09:38,640 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:09:38,640 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-21 18:09:38,641 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-21 18:09:38,641 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-21 18:09:39,642 - API - INFO - Sn3DSetScanObject 
+2024-05-21 18:09:39,642 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:09:39,642 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-21 18:09:39,642 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-21 18:09:39,642 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-21 18:09:40,644 - API - INFO - Sn3DStartScan 
+2024-05-21 18:09:40,644 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:09:40,644 - API - INFO - Sn3DStartScan function starts...
+2024-05-21 18:09:40,644 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-21 18:09:40,644 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-21 18:11:28,436 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:11:29,438 - API - INFO - Callback registered successfully.
+2024-05-21 18:12:08,231 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-21 18:12:16,233 - API - INFO - Sn3DSetScanMode 
+2024-05-21 18:12:16,233 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:12:16,233 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 18:12:19,035 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 18:12:20,040 - API - INFO - Sn3DNewProject 
+2024-05-21 18:12:20,040 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:12:20,040 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 18:14:10,082 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:14:11,082 - API - INFO - Callback registered successfully.
+2024-05-21 18:14:28,009 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:14:29,010 - API - INFO - Callback registered successfully.
+2024-05-21 18:15:07,867 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-21 18:15:15,868 - API - INFO - Sn3DSetScanMode 
+2024-05-21 18:15:15,868 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:15:15,868 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 18:15:29,955 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 18:15:30,957 - API - INFO - Sn3DNewProject 
+2024-05-21 18:15:30,958 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:15:30,958 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 18:21:18,653 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:21:19,653 - API - INFO - Callback registered successfully.
+2024-05-21 18:21:57,127 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-21 18:22:05,130 - API - INFO - Sn3DSetScanMode 
+2024-05-21 18:22:05,130 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:22:05,130 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 18:22:07,861 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 18:22:08,865 - API - INFO - Sn3DNewProject 
+2024-05-21 18:22:08,865 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:22:08,865 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 18:22:09,880 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-21 18:22:10,883 - API - INFO - Sn3DSetScanPars 
+2024-05-21 18:22:10,884 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:22:10,884 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-21 18:22:10,884 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-21 18:22:10,884 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-21 18:22:13,885 - API - INFO - Sn3DSetLaserGrade 
+2024-05-21 18:22:13,886 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:22:13,886 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-21 18:22:13,886 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-21 18:22:13,886 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-21 18:22:14,887 - API - INFO - Sn3DChangeBrightStep 
+2024-05-21 18:22:14,887 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:22:14,887 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-21 18:22:14,887 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-21 18:22:14,888 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-21 18:22:15,889 - API - INFO - Sn3DSetScanObject 
+2024-05-21 18:22:15,889 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:22:15,890 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-21 18:22:15,890 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-21 18:22:15,890 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-21 18:22:20,234 - API - INFO - Sn3DStartScan 
+2024-05-21 18:22:20,234 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:22:20,234 - API - INFO - Sn3DStartScan function starts...
+2024-05-21 18:22:20,234 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-21 18:22:20,234 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-21 18:22:20,236 - API - INFO - Sn3DPauseScan 
+2024-05-21 18:22:20,236 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:22:20,236 - API - INFO - Sn3DPauseScan function starts...
+2024-05-21 18:23:52,551 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:23:53,551 - API - INFO - Callback registered successfully.
+2024-05-21 18:25:31,755 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:25:32,756 - API - INFO - Callback registered successfully.
+2024-05-21 18:26:09,977 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-21 18:26:17,978 - API - INFO - Sn3DSetScanMode 
+2024-05-21 18:26:17,978 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:26:17,978 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 18:26:20,788 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 18:26:21,794 - API - INFO - Sn3DNewProject 
+2024-05-21 18:26:21,795 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:26:21,795 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 18:26:22,803 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-21 18:26:23,804 - API - INFO - Sn3DSetScanPars 
+2024-05-21 18:26:23,805 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:26:23,805 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-21 18:26:23,805 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-21 18:26:23,805 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-21 18:26:26,806 - API - INFO - Sn3DSetLaserGrade 
+2024-05-21 18:26:26,806 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:26:26,806 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-21 18:26:26,806 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-21 18:26:26,806 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-21 18:26:27,809 - API - INFO - Sn3DChangeBrightStep 
+2024-05-21 18:26:27,810 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:26:27,810 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-21 18:26:27,810 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-21 18:26:27,810 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-21 18:26:28,812 - API - INFO - Sn3DSetScanObject 
+2024-05-21 18:26:28,813 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:26:28,813 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-21 18:26:28,813 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-21 18:26:28,813 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-21 18:26:31,616 - API - INFO - Sn3DStartScan 
+2024-05-21 18:26:31,616 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:26:31,616 - API - INFO - Sn3DStartScan function starts...
+2024-05-21 18:26:31,616 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-21 18:26:31,616 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-21 18:26:31,618 - API - INFO - Sn3DPauseScan 
+2024-05-21 18:26:31,618 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:26:31,618 - API - INFO - Sn3DPauseScan function starts...
+2024-05-21 18:29:06,411 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:29:07,413 - API - INFO - Callback registered successfully.
+2024-05-21 18:29:07,538 - API - ERROR - Sn3DLaunchService function can not start, FreeScan.exe is already running.
+2024-05-21 18:30:41,414 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:30:42,415 - API - INFO - Callback registered successfully.
+2024-05-21 18:31:19,796 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-21 18:31:27,798 - API - INFO - Sn3DSetScanMode 
+2024-05-21 18:31:27,798 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:31:27,798 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-21 18:31:30,531 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-21 18:31:31,534 - API - INFO - Sn3DNewProject 
+2024-05-21 18:31:31,534 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:31:31,534 - API - INFO - Sn3DNewProject function starts...
+2024-05-21 18:31:32,534 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-21 18:31:33,535 - API - INFO - Sn3DSetScanPars 
+2024-05-21 18:31:33,535 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:31:33,535 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-21 18:31:33,535 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-21 18:31:33,535 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-21 18:31:36,538 - API - INFO - Sn3DSetLaserGrade 
+2024-05-21 18:31:36,538 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:31:36,538 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-21 18:31:36,538 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-21 18:31:36,539 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-21 18:31:37,540 - API - INFO - Sn3DChangeBrightStep 
+2024-05-21 18:31:37,540 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:31:37,540 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-21 18:31:37,540 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-21 18:31:37,540 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-21 18:31:38,542 - API - INFO - Sn3DSetScanObject 
+2024-05-21 18:31:38,543 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:31:38,543 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-21 18:31:38,543 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-21 18:31:38,543 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-21 18:31:42,665 - API - INFO - Sn3DStartScan 
+2024-05-21 18:31:42,665 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:31:42,665 - API - INFO - Sn3DStartScan function starts...
+2024-05-21 18:31:42,665 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-21 18:31:42,665 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-21 18:31:42,667 - API - INFO - Sn3DPauseScan 
+2024-05-21 18:31:42,667 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-21 18:31:42,667 - API - INFO - Sn3DPauseScan function starts...
+2024-05-22 11:09:27,857 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:09:28,859 - API - INFO - Callback registered successfully.
+2024-05-22 11:09:52,380 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-22 11:10:00,381 - API - INFO - Sn3DSetScanMode 
+2024-05-22 11:10:00,381 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:10:00,381 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-22 11:10:02,460 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-22 11:10:03,466 - API - INFO - Sn3DNewProject 
+2024-05-22 11:10:03,467 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:10:03,467 - API - INFO - Sn3DNewProject function starts...
+2024-05-22 11:10:04,969 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-22 11:10:05,971 - API - INFO - Sn3DSetScanPars 
+2024-05-22 11:10:05,972 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:10:05,972 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-22 11:10:05,973 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-22 11:10:05,973 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-22 11:10:08,976 - API - INFO - Sn3DSetLaserGrade 
+2024-05-22 11:10:08,977 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:10:08,977 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-22 11:10:08,977 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-22 11:10:08,978 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-22 11:10:09,981 - API - INFO - Sn3DChangeBrightStep 
+2024-05-22 11:10:09,982 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:10:09,982 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-22 11:10:09,982 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-22 11:10:09,982 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-22 11:10:10,986 - API - INFO - Sn3DSetScanObject 
+2024-05-22 11:10:10,986 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:10:10,987 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-22 11:10:10,987 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-22 11:10:10,988 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-22 11:10:14,621 - API - INFO - Sn3DStartScan 
+2024-05-22 11:10:14,621 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:10:14,621 - API - INFO - Sn3DStartScan function starts...
+2024-05-22 11:10:14,622 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-22 11:10:14,622 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-22 11:10:14,624 - API - INFO - Sn3DPauseScan 
+2024-05-22 11:10:14,625 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:10:14,625 - API - INFO - Sn3DPauseScan function starts...
+2024-05-22 11:42:56,442 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:42:57,444 - API - INFO - Callback registered successfully.
+2024-05-22 11:43:17,305 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-22 11:43:25,307 - API - INFO - Sn3DSetScanMode 
+2024-05-22 11:43:25,307 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:43:25,307 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-22 11:43:27,379 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-22 11:43:28,380 - API - INFO - Sn3DNewProject 
+2024-05-22 11:43:28,380 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:43:28,380 - API - INFO - Sn3DNewProject function starts...
+2024-05-22 11:43:29,638 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-22 11:43:30,640 - API - INFO - Sn3DSetScanPars 
+2024-05-22 11:43:30,640 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:43:30,641 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-22 11:43:30,641 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-22 11:43:30,641 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-22 11:43:33,643 - API - INFO - Sn3DSetLaserGrade 
+2024-05-22 11:43:33,643 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:43:33,643 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-22 11:43:33,644 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-22 11:43:33,644 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-22 11:43:34,647 - API - INFO - Sn3DChangeBrightStep 
+2024-05-22 11:43:34,647 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:43:34,648 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-22 11:43:34,648 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-22 11:43:34,648 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-22 11:43:35,651 - API - INFO - Sn3DSetScanObject 
+2024-05-22 11:43:35,651 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:43:35,652 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-22 11:43:35,652 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-22 11:43:35,652 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-22 11:43:39,696 - API - INFO - Sn3DStartScan 
+2024-05-22 11:43:39,697 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:43:39,697 - API - INFO - Sn3DStartScan function starts...
+2024-05-22 11:43:39,697 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-22 11:43:39,697 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-22 11:43:39,699 - API - INFO - Sn3DPauseScan 
+2024-05-22 11:43:39,700 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:43:39,700 - API - INFO - Sn3DPauseScan function starts...
+2024-05-22 11:48:39,666 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-22 11:48:39,667 - API - INFO - Sn3DEndScan 
+2024-05-22 11:48:39,667 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:48:39,667 - API - INFO - Sn3DEndScan function starts...
+2024-05-22 11:49:14,643 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-22 11:49:14,645 - API - INFO - Sn3DSaveMesh 
+2024-05-22 11:49:14,646 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-22 11:49:14,646 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-22 12:00:12,252 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:13,254 - API - INFO - Callback registered successfully.
+2024-05-22 12:00:32,147 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-22 12:00:40,149 - API - INFO - Sn3DSetScanMode 
+2024-05-22 12:00:40,149 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:40,149 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-22 12:00:42,226 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-22 12:00:43,228 - API - INFO - Sn3DNewProject 
+2024-05-22 12:00:43,228 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:43,228 - API - INFO - Sn3DNewProject function starts...
+2024-05-22 12:00:44,533 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-22 12:00:45,535 - API - INFO - Sn3DSetScanPars 
+2024-05-22 12:00:45,535 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:45,536 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-22 12:00:45,536 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-22 12:00:45,536 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-22 12:00:48,539 - API - INFO - Sn3DSetLaserGrade 
+2024-05-22 12:00:48,539 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:48,540 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-22 12:00:48,540 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-22 12:00:48,540 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-22 12:00:49,543 - API - INFO - Sn3DChangeBrightStep 
+2024-05-22 12:00:49,544 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:49,544 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-22 12:00:49,545 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-22 12:00:49,545 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-22 12:00:50,547 - API - INFO - Sn3DSetScanObject 
+2024-05-22 12:00:50,547 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:50,548 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-22 12:00:50,548 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-22 12:00:50,548 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-22 12:00:51,602 - API - INFO - Sn3DStartScan 
+2024-05-22 12:00:51,602 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:51,602 - API - INFO - Sn3DStartScan function starts...
+2024-05-22 12:00:51,602 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-22 12:00:51,602 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-22 12:00:51,606 - API - INFO - Sn3DPauseScan 
+2024-05-22 12:00:51,607 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:00:51,607 - API - INFO - Sn3DPauseScan function starts...
+2024-05-22 12:24:18,513 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:24:19,515 - API - INFO - Callback registered successfully.
+2024-05-22 12:24:45,057 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-22 12:24:53,059 - API - INFO - Sn3DSetScanMode 
+2024-05-22 12:24:53,059 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:24:53,059 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-22 12:24:55,206 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-22 12:24:56,539 - API - INFO - Sn3DNewProject 
+2024-05-22 12:24:56,540 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:24:56,540 - API - INFO - Sn3DNewProject function starts...
+2024-05-22 12:24:58,124 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-22 12:24:59,128 - API - INFO - Sn3DSetScanPars 
+2024-05-22 12:24:59,128 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:24:59,128 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-22 12:24:59,128 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-22 12:24:59,129 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-22 12:25:02,131 - API - INFO - Sn3DSetLaserGrade 
+2024-05-22 12:25:02,131 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:25:02,132 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-22 12:25:02,132 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-22 12:25:02,132 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-22 12:25:03,135 - API - INFO - Sn3DChangeBrightStep 
+2024-05-22 12:25:03,136 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:25:03,136 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-22 12:25:03,136 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-22 12:25:03,137 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-22 12:25:04,139 - API - INFO - Sn3DSetScanObject 
+2024-05-22 12:25:04,139 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-22 12:25:04,140 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-22 12:25:04,140 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-22 12:25:04,140 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-22 14:22:20,277 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-22 14:22:21,278 - API - INFO - Callback registered successfully.
+2024-05-22 14:22:21,414 - API - ERROR - Sn3DLaunchService function can not start, FreeScan.exe is already running.
+2024-05-24 12:00:46,225 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:00:46,225 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:00:47,238 - API - INFO - Callback registered successfully.
+2024-05-24 12:00:47,238 - API - INFO - Callback registered successfully.
+2024-05-24 12:00:47,698 - API - ERROR - Sn3DLaunchService function can not start, FreeScan.exe is already running.
+2024-05-24 12:00:47,698 - API - ERROR - Sn3DLaunchService function can not start, FreeScan.exe is already running.
+2024-05-24 12:03:25,059 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:03:25,059 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:03:26,061 - API - INFO - Callback registered successfully.
+2024-05-24 12:03:26,061 - API - INFO - Callback registered successfully.
+2024-05-24 12:03:49,199 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:03:49,199 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:03:57,201 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:03:57,201 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:03:57,201 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:03:57,201 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:03:57,201 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:03:57,201 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:03:59,268 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:03:59,268 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:04:00,271 - API - INFO - Sn3DNewProject 
+2024-05-24 12:04:00,271 - API - INFO - Sn3DNewProject 
+2024-05-24 12:04:00,272 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:00,272 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:00,273 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:04:00,273 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:04:01,670 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:04:01,670 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:04:02,672 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:04:02,672 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:04:02,673 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:02,673 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:02,673 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:04:02,673 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:04:02,674 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:04:02,674 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:04:02,674 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:04:02,674 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:04:05,676 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:04:05,676 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:04:05,676 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:05,676 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:05,677 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:04:05,677 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:04:05,677 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:04:05,677 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:04:05,677 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:04:05,677 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:04:06,678 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:04:06,678 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:04:06,679 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:06,679 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:06,679 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:04:06,679 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:04:06,679 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:04:06,679 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:04:06,679 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:04:06,679 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:04:07,682 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:04:07,682 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:04:07,682 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:07,682 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:04:07,683 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:04:07,683 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:04:07,683 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:04:07,683 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:04:07,684 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:04:07,684 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:08:32,241 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:08:32,241 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:08:33,243 - API - INFO - Callback registered successfully.
+2024-05-24 12:08:33,243 - API - INFO - Callback registered successfully.
+2024-05-24 12:08:52,765 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:08:52,765 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:09:00,767 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:09:00,767 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:09:00,767 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:00,767 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:00,768 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:09:00,768 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:09:02,826 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:09:02,826 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:09:03,828 - API - INFO - Sn3DNewProject 
+2024-05-24 12:09:03,828 - API - INFO - Sn3DNewProject 
+2024-05-24 12:09:03,829 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:03,829 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:03,830 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:09:03,830 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:09:05,113 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:09:05,113 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:09:06,114 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:09:06,114 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:09:06,115 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:06,115 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:06,115 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:09:06,115 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:09:06,116 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:09:06,116 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:09:06,116 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:09:06,116 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:09:09,120 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:09:09,120 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:09:09,121 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:09,121 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:09,122 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:09:09,122 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:09:09,122 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:09:09,122 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:09:09,122 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:09:09,122 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:09:10,126 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:09:10,126 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:09:10,126 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:10,126 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:10,127 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:09:10,127 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:09:10,127 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:09:10,127 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:09:10,127 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:09:10,127 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:09:11,130 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:09:11,130 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:09:11,130 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:11,130 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:11,130 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:09:11,130 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:09:11,131 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:09:11,131 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:09:11,131 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:09:11,131 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:09:14,134 - API - INFO - Sn3DStartScan 
+2024-05-24 12:09:14,134 - API - INFO - Sn3DStartScan 
+2024-05-24 12:09:14,135 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:14,135 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:09:14,135 - API - INFO - Sn3DStartScan function starts...
+2024-05-24 12:09:14,135 - API - INFO - Sn3DStartScan function starts...
+2024-05-24 12:09:14,135 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-24 12:09:14,135 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-24 12:09:14,136 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-24 12:09:14,136 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-24 12:15:12,005 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:12,005 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:13,006 - API - INFO - Callback registered successfully.
+2024-05-24 12:15:13,006 - API - INFO - Callback registered successfully.
+2024-05-24 12:15:32,544 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:15:32,544 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:15:40,547 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:15:40,547 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:15:40,548 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:40,548 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:40,548 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:15:40,548 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:15:42,604 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:15:42,604 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:15:43,606 - API - INFO - Sn3DNewProject 
+2024-05-24 12:15:43,606 - API - INFO - Sn3DNewProject 
+2024-05-24 12:15:43,607 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:43,607 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:43,607 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:15:43,607 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:15:44,897 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:15:44,897 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:15:45,898 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:15:45,898 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:15:45,899 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:45,899 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:45,899 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:15:45,899 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:15:45,899 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:15:45,899 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:15:45,900 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:15:45,900 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:15:48,902 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:15:48,902 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:15:48,902 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:48,902 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:48,903 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:15:48,903 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:15:48,903 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:15:48,903 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:15:48,904 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:15:48,904 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:15:49,905 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:15:49,905 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:15:49,905 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:49,905 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:49,906 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:15:49,906 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:15:49,906 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:15:49,906 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:15:49,906 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:15:49,906 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:15:50,909 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:15:50,909 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:15:50,910 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:50,910 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:50,911 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:15:50,911 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:15:50,911 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:15:50,911 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:15:50,912 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:15:50,912 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:15:53,913 - API - INFO - Sn3DStartScan 
+2024-05-24 12:15:53,913 - API - INFO - Sn3DStartScan 
+2024-05-24 12:15:53,914 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:53,914 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:15:53,914 - API - INFO - Sn3DStartScan function starts...
+2024-05-24 12:15:53,914 - API - INFO - Sn3DStartScan function starts...
+2024-05-24 12:15:53,915 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-24 12:15:53,915 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-24 12:15:53,915 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-24 12:15:53,915 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-24 12:25:45,366 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:25:45,366 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:25:46,367 - API - INFO - Callback registered successfully.
+2024-05-24 12:25:46,367 - API - INFO - Callback registered successfully.
+2024-05-24 12:25:46,744 - API - ERROR - Sn3DLaunchService function can not start, FreeScan.exe is already running.
+2024-05-24 12:25:46,744 - API - ERROR - Sn3DLaunchService function can not start, FreeScan.exe is already running.
+2024-05-24 12:25:54,746 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:25:54,746 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:25:54,747 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:25:54,747 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:25:54,747 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:25:54,747 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:29:16,986 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:16,986 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:17,987 - API - INFO - Callback registered successfully.
+2024-05-24 12:29:17,987 - API - INFO - Callback registered successfully.
+2024-05-24 12:29:37,703 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:29:37,703 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:29:45,706 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:29:45,706 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:29:45,706 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:45,706 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:45,706 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:29:45,706 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:29:47,765 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:29:47,765 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:29:48,767 - API - INFO - Sn3DNewProject 
+2024-05-24 12:29:48,767 - API - INFO - Sn3DNewProject 
+2024-05-24 12:29:48,768 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:48,768 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:48,768 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:29:48,768 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:29:50,037 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:29:50,037 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:29:51,038 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:29:51,038 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:29:51,039 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:51,039 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:51,039 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:29:51,039 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:29:51,040 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:29:51,040 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:29:51,040 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:29:51,040 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:29:57,045 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:29:57,045 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:29:57,046 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:57,046 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:57,046 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:29:57,046 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:29:57,046 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:29:57,046 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:29:57,046 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:29:57,046 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:29:58,050 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:29:58,050 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:29:58,051 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:58,051 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:58,051 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:29:58,051 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:29:58,051 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:29:58,051 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:29:58,052 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:29:58,052 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:29:59,053 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:29:59,053 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:29:59,054 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:59,054 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:29:59,054 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:29:59,054 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:29:59,054 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:29:59,054 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:29:59,055 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:29:59,055 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:30:00,058 - API - INFO - Sn3DStartScan 
+2024-05-24 12:30:00,058 - API - INFO - Sn3DStartScan 
+2024-05-24 12:30:00,059 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:30:00,059 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:30:00,059 - API - INFO - Sn3DStartScan function starts...
+2024-05-24 12:30:00,059 - API - INFO - Sn3DStartScan function starts...
+2024-05-24 12:30:00,060 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-24 12:30:00,060 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-24 12:30:00,061 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-24 12:30:00,061 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-24 12:38:46,990 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:38:46,990 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:38:47,990 - API - INFO - Callback registered successfully.
+2024-05-24 12:38:47,990 - API - INFO - Callback registered successfully.
+2024-05-24 12:39:07,844 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:39:07,844 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 12:39:15,846 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:39:15,846 - API - INFO - Sn3DSetScanMode 
+2024-05-24 12:39:15,847 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:15,847 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:15,847 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:39:15,847 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 12:39:17,916 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:39:17,916 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 12:39:18,918 - API - INFO - Sn3DNewProject 
+2024-05-24 12:39:18,918 - API - INFO - Sn3DNewProject 
+2024-05-24 12:39:18,919 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:18,919 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:18,919 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:39:18,919 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 12:39:20,189 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:39:20,189 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 12:39:21,191 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:39:21,191 - API - INFO - Sn3DSetScanPars 
+2024-05-24 12:39:21,192 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:21,192 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:21,192 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:39:21,192 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 12:39:21,193 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:39:21,193 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 12:39:21,194 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:39:21,194 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 12:39:27,196 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:39:27,196 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 12:39:27,197 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:27,197 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:27,197 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:39:27,197 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 12:39:27,198 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:39:27,198 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 12:39:27,199 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:39:27,199 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 12:39:28,201 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:39:28,201 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 12:39:28,202 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:28,202 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:28,202 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:39:28,202 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 12:39:28,203 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:39:28,203 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 12:39:28,204 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:39:28,204 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 12:39:29,208 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:39:29,208 - API - INFO - Sn3DSetScanObject 
+2024-05-24 12:39:29,208 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:29,208 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:29,209 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:39:29,209 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 12:39:29,210 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:39:29,210 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 12:39:29,210 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:39:29,210 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 12:39:30,211 - API - INFO - Sn3DStartScan 
+2024-05-24 12:39:30,211 - API - INFO - Sn3DStartScan 
+2024-05-24 12:39:30,211 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:30,211 - API - INFO - Sn3DStartScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 12:39:30,212 - API - INFO - Sn3DStartScan function starts...
+2024-05-24 12:39:30,212 - API - INFO - Sn3DStartScan function starts...
+2024-05-24 12:39:30,212 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-24 12:39:30,212 - API - INFO - Sn3DStartScan has no need_wait.
+2024-05-24 12:39:30,212 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-24 12:39:30,212 - API - INFO - Sn3DStartScan function successfully executed by FreeScan SDK.
+2024-05-24 13:48:02,122 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:02,122 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:03,123 - API - INFO - Callback registered successfully.
+2024-05-24 13:48:03,123 - API - INFO - Callback registered successfully.
+2024-05-24 13:48:28,567 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 13:48:28,567 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 13:48:36,582 - API - INFO - Sn3DSetScanMode 
+2024-05-24 13:48:36,582 - API - INFO - Sn3DSetScanMode 
+2024-05-24 13:48:36,582 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:36,582 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:36,583 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 13:48:36,583 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 13:48:38,648 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 13:48:38,648 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 13:48:39,651 - API - INFO - Sn3DNewProject 
+2024-05-24 13:48:39,651 - API - INFO - Sn3DNewProject 
+2024-05-24 13:48:39,652 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:39,652 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:39,652 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 13:48:39,652 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 13:48:41,074 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 13:48:41,074 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 13:48:42,075 - API - INFO - Sn3DSetScanPars 
+2024-05-24 13:48:42,075 - API - INFO - Sn3DSetScanPars 
+2024-05-24 13:48:42,076 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:42,076 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:42,076 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 13:48:42,076 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 13:48:42,077 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 13:48:42,077 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 13:48:42,077 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 13:48:42,077 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 13:48:48,083 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 13:48:48,083 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 13:48:48,085 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:48,085 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:48,085 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 13:48:48,085 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 13:48:48,085 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 13:48:48,085 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 13:48:48,086 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 13:48:48,086 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 13:48:49,089 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 13:48:49,089 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 13:48:49,090 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:49,090 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:49,090 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 13:48:49,090 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 13:48:49,090 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 13:48:49,090 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 13:48:49,090 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 13:48:49,090 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 13:48:50,093 - API - INFO - Sn3DSetScanObject 
+2024-05-24 13:48:50,093 - API - INFO - Sn3DSetScanObject 
+2024-05-24 13:48:50,094 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:50,094 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 13:48:50,094 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 13:48:50,094 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 13:48:50,095 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 13:48:50,095 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 13:48:50,095 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 13:48:50,095 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:22:21,383 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:21,383 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:22,384 - API - INFO - Callback registered successfully.
+2024-05-24 14:22:22,384 - API - INFO - Callback registered successfully.
+2024-05-24 14:22:40,566 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:22:40,566 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:22:48,569 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:22:48,569 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:22:48,569 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:48,569 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:48,570 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:22:48,570 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:22:50,618 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:22:50,618 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:22:51,621 - API - INFO - Sn3DNewProject 
+2024-05-24 14:22:51,621 - API - INFO - Sn3DNewProject 
+2024-05-24 14:22:51,621 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:51,621 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:51,622 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:22:51,622 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:22:52,887 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:22:52,887 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:22:53,888 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:22:53,888 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:22:53,889 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:53,889 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:53,889 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:22:53,889 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:22:53,890 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:22:53,890 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:22:53,890 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:22:53,890 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:22:59,893 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:22:59,893 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:22:59,893 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:59,893 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:22:59,893 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:22:59,893 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:22:59,894 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:22:59,894 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:22:59,894 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:22:59,894 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:23:00,896 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:23:00,896 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:23:00,896 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:23:00,896 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:23:00,897 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:23:00,897 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:23:00,897 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:23:00,897 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:23:00,898 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:23:00,898 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:23:01,901 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:23:01,901 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:23:01,902 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:23:01,902 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:23:01,902 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:23:01,902 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:23:01,903 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:23:01,903 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:23:01,903 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:23:01,903 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:31:45,574 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:31:45,574 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:31:46,576 - API - INFO - Callback registered successfully.
+2024-05-24 14:31:46,576 - API - INFO - Callback registered successfully.
+2024-05-24 14:32:06,270 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:32:06,270 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:32:14,272 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:32:14,272 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:32:14,272 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:14,272 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:14,272 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:32:14,272 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:32:16,320 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:32:16,320 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:32:17,322 - API - INFO - Sn3DNewProject 
+2024-05-24 14:32:17,322 - API - INFO - Sn3DNewProject 
+2024-05-24 14:32:17,322 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:17,322 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:17,323 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:32:17,323 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:32:18,567 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:32:18,567 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:32:19,570 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:32:19,570 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:32:19,571 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:19,571 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:19,571 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:32:19,571 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:32:19,572 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:32:19,572 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:32:19,572 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:32:19,572 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:32:25,576 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:32:25,576 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:32:25,577 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:25,577 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:25,577 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:32:25,577 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:32:25,578 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:32:25,578 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:32:25,578 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:32:25,578 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:32:26,580 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:32:26,580 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:32:26,580 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:26,580 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:26,581 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:32:26,581 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:32:26,581 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:32:26,581 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:32:26,581 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:32:26,581 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:32:27,584 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:32:27,584 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:32:27,585 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:27,585 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:32:27,585 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:32:27,585 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:32:27,585 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:32:27,585 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:32:27,586 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:32:27,586 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:33:02,707 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:33:02,707 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:33:09,458 - API - INFO - Callback registered successfully.
+2024-05-24 14:33:09,458 - API - INFO - Callback registered successfully.
+2024-05-24 14:37:03,199 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:03,199 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:04,201 - API - INFO - Callback registered successfully.
+2024-05-24 14:37:04,201 - API - INFO - Callback registered successfully.
+2024-05-24 14:37:23,472 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:37:23,472 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:37:31,474 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:37:31,474 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:37:31,474 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:31,474 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:31,474 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:37:31,474 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:37:33,524 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:37:33,524 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:37:34,526 - API - INFO - Sn3DNewProject 
+2024-05-24 14:37:34,526 - API - INFO - Sn3DNewProject 
+2024-05-24 14:37:34,526 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:34,526 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:34,526 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:37:34,526 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:37:35,757 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:37:35,757 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:37:36,759 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:37:36,759 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:37:36,759 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:36,759 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:36,760 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:37:36,760 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:37:36,760 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:37:36,760 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:37:36,761 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:37:36,761 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:37:42,763 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:37:42,763 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:37:42,764 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:42,764 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:42,764 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:37:42,764 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:37:42,764 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:37:42,764 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:37:42,765 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:37:42,765 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:37:43,767 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:37:43,767 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:37:43,768 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:43,768 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:43,768 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:37:43,768 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:37:43,768 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:37:43,768 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:37:43,769 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:37:43,769 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:37:44,770 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:37:44,770 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:37:44,770 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:44,770 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:37:44,771 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:37:44,771 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:37:44,771 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:37:44,771 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:37:44,771 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:37:44,771 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:47:00,444 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:00,444 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:01,445 - API - INFO - Callback registered successfully.
+2024-05-24 14:47:01,445 - API - INFO - Callback registered successfully.
+2024-05-24 14:47:21,175 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:47:21,175 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:47:29,177 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:47:29,177 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:47:29,178 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:29,178 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:29,178 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:47:29,178 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:47:31,282 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:47:31,282 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:47:32,283 - API - INFO - Sn3DNewProject 
+2024-05-24 14:47:32,283 - API - INFO - Sn3DNewProject 
+2024-05-24 14:47:32,283 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:32,283 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:32,284 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:47:32,284 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:47:33,545 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:47:33,545 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:47:34,546 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:47:34,546 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:47:34,547 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:34,547 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:34,547 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:47:34,547 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:47:34,548 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:47:34,548 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:47:34,548 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:47:34,548 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:47:40,551 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:47:40,551 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:47:40,552 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:40,552 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:40,552 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:47:40,552 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:47:40,553 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:47:40,553 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:47:40,553 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:47:40,553 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:47:41,555 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:47:41,555 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:47:41,555 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:41,555 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:41,556 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:47:41,556 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:47:41,556 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:47:41,556 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:47:41,557 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:47:41,557 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:47:42,561 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:47:42,561 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:47:42,561 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:42,561 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:47:42,562 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:47:42,562 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:47:42,562 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:47:42,562 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:47:42,563 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:47:42,563 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:49:27,361 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:49:27,361 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:49:28,362 - API - INFO - Callback registered successfully.
+2024-05-24 14:49:28,362 - API - INFO - Callback registered successfully.
+2024-05-24 14:49:47,749 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:49:47,749 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:49:55,752 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:49:55,752 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:49:55,753 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:49:55,753 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:49:55,753 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:49:55,753 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:49:57,798 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:49:57,798 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:49:58,800 - API - INFO - Sn3DNewProject 
+2024-05-24 14:49:58,800 - API - INFO - Sn3DNewProject 
+2024-05-24 14:49:58,800 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:49:58,800 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:49:58,801 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:49:58,801 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:50:00,038 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:50:00,038 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:50:01,041 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:50:01,041 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:50:01,042 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:01,042 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:01,042 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:50:01,042 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:50:01,042 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:50:01,042 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:50:01,043 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:50:01,043 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:50:07,045 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:50:07,045 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:50:07,046 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:07,046 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:07,047 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:50:07,047 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:50:07,047 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:50:07,047 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:50:07,047 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:50:07,047 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:50:08,050 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:50:08,050 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:50:08,051 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:08,051 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:08,052 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:50:08,052 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:50:08,053 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:50:08,053 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:50:08,053 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:50:08,053 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:50:09,056 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:50:09,056 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:50:09,056 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:09,056 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:09,057 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:50:09,057 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:50:09,057 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:50:09,057 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:50:09,057 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:50:09,057 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:50:20,059 - API - INFO - Sn3DPauseScan 
+2024-05-24 14:50:20,059 - API - INFO - Sn3DPauseScan 
+2024-05-24 14:50:20,060 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:20,060 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:50:20,060 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 14:50:20,060 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 14:56:02,454 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:02,454 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:03,455 - API - INFO - Callback registered successfully.
+2024-05-24 14:56:03,455 - API - INFO - Callback registered successfully.
+2024-05-24 14:56:21,343 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:56:21,343 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:56:29,346 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:56:29,346 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:56:29,346 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:29,346 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:29,347 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:56:29,347 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:56:31,401 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:56:31,401 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:56:32,405 - API - INFO - Sn3DNewProject 
+2024-05-24 14:56:32,405 - API - INFO - Sn3DNewProject 
+2024-05-24 14:56:32,406 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:32,406 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:32,406 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:56:32,406 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:56:33,638 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:56:33,638 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:56:34,639 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:56:34,639 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:56:34,640 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:34,640 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:34,640 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:56:34,640 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:56:34,640 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:56:34,640 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:56:34,641 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:56:34,641 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:56:40,643 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:56:40,643 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:56:40,644 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:40,644 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:40,644 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:56:40,644 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:56:40,644 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:56:40,644 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:56:40,645 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:56:40,645 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:56:41,648 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:56:41,648 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:56:41,649 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:41,649 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:41,649 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:56:41,649 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:56:41,649 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:56:41,649 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:56:41,650 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:56:41,650 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:56:42,652 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:56:42,652 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:56:42,653 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:42,653 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:56:42,654 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:56:42,654 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:56:42,654 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:56:42,654 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:56:42,655 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:56:42,655 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:57:26,321 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:57:26,321 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:57:27,323 - API - INFO - Callback registered successfully.
+2024-05-24 14:57:27,323 - API - INFO - Callback registered successfully.
+2024-05-24 14:57:45,163 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:57:45,163 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:57:53,165 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:57:53,165 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:57:53,165 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:57:53,165 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:57:53,166 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:57:53,166 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:57:55,264 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:57:55,264 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:57:56,267 - API - INFO - Sn3DNewProject 
+2024-05-24 14:57:56,267 - API - INFO - Sn3DNewProject 
+2024-05-24 14:57:56,267 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:57:56,267 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:57:56,268 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:57:56,268 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:57:57,500 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:57:57,500 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:57:58,502 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:57:58,502 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:57:58,503 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:57:58,503 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:57:58,503 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:57:58,503 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:57:58,504 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:57:58,504 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:57:58,504 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:57:58,504 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:58:04,507 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:58:04,507 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:58:04,507 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:58:04,507 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:58:04,508 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:58:04,508 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:58:04,508 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:58:04,508 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:58:04,508 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:58:04,508 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:58:05,511 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:58:05,511 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:58:05,512 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:58:05,512 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:58:05,512 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:58:05,512 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:58:05,513 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:58:05,513 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:58:05,513 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:58:05,513 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:58:06,515 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:58:06,515 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:58:06,516 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:58:06,516 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:58:06,516 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:58:06,516 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:58:06,516 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:58:06,516 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:58:06,517 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:58:06,517 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:58:45,287 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:58:45,287 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:58:46,288 - API - INFO - Callback registered successfully.
+2024-05-24 14:58:46,288 - API - INFO - Callback registered successfully.
+2024-05-24 14:59:04,213 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:59:04,213 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 14:59:12,214 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:59:12,214 - API - INFO - Sn3DSetScanMode 
+2024-05-24 14:59:12,214 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:12,214 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:12,215 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:59:12,215 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 14:59:14,270 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:59:14,270 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 14:59:15,273 - API - INFO - Sn3DNewProject 
+2024-05-24 14:59:15,273 - API - INFO - Sn3DNewProject 
+2024-05-24 14:59:15,274 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:15,274 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:15,274 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:59:15,274 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 14:59:16,530 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:59:16,530 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 14:59:17,533 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:59:17,533 - API - INFO - Sn3DSetScanPars 
+2024-05-24 14:59:17,534 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:17,534 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:17,534 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:59:17,534 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 14:59:17,535 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:59:17,535 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 14:59:17,535 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:59:17,535 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 14:59:23,538 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:59:23,538 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 14:59:23,539 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:23,539 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:23,539 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:59:23,539 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 14:59:23,539 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:59:23,539 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 14:59:23,540 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:59:23,540 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 14:59:24,544 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:59:24,544 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 14:59:24,545 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:24,545 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:24,545 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:59:24,545 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 14:59:24,546 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:59:24,546 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 14:59:24,546 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:59:24,546 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 14:59:25,548 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:59:25,548 - API - INFO - Sn3DSetScanObject 
+2024-05-24 14:59:25,549 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:25,549 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:25,549 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:59:25,549 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 14:59:25,550 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:59:25,550 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 14:59:25,550 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:59:25,550 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 14:59:59,652 - API - INFO - Sn3DPauseScan 
+2024-05-24 14:59:59,652 - API - INFO - Sn3DPauseScan 
+2024-05-24 14:59:59,653 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:59,653 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 14:59:59,653 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 14:59:59,653 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:04:32,825 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:04:32,825 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:04:33,825 - API - INFO - Callback registered successfully.
+2024-05-24 15:04:33,825 - API - INFO - Callback registered successfully.
+2024-05-24 15:04:52,424 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:04:52,424 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:05:00,427 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:05:00,427 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:05:00,427 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:00,427 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:00,427 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:05:00,427 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:05:02,469 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:05:02,469 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:05:03,471 - API - INFO - Sn3DNewProject 
+2024-05-24 15:05:03,471 - API - INFO - Sn3DNewProject 
+2024-05-24 15:05:03,471 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:03,471 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:03,472 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:05:03,472 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:05:05,158 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:05:05,158 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:05:06,160 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:05:06,160 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:05:06,161 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:06,161 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:06,161 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:05:06,161 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:05:06,162 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:05:06,162 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:05:06,162 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:05:06,162 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:05:12,166 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:05:12,166 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:05:12,167 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:12,167 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:12,167 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:05:12,167 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:05:12,168 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:05:12,168 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:05:12,168 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:05:12,168 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:05:13,169 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:05:13,169 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:05:13,170 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:13,170 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:13,170 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:05:13,170 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:05:13,170 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:05:13,170 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:05:13,171 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:05:13,171 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:05:14,172 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:05:14,172 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:05:14,172 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:14,172 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:14,172 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:05:14,172 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:05:14,173 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:05:14,173 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:05:14,173 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:05:14,173 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:05:48,277 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:05:48,277 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:05:48,278 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:48,278 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:48,280 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:05:48,280 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:05:51,241 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:05:51,241 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:05:51,244 - API - INFO - Sn3DEndScan 
+2024-05-24 15:05:51,244 - API - INFO - Sn3DEndScan 
+2024-05-24 15:05:51,245 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:51,245 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:05:51,245 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:05:51,245 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:06:01,394 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:06:01,394 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:06:01,397 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:06:01,397 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:06:01,398 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:06:01,398 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:06:01,399 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:06:01,399 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:12:34,872 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:12:34,872 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:12:35,885 - API - INFO - Callback registered successfully.
+2024-05-24 15:12:35,885 - API - INFO - Callback registered successfully.
+2024-05-24 15:12:59,907 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:12:59,907 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:13:07,921 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:13:07,921 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:13:07,921 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:07,921 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:07,922 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:13:07,922 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:13:09,985 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:13:09,985 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:13:10,986 - API - INFO - Sn3DNewProject 
+2024-05-24 15:13:10,986 - API - INFO - Sn3DNewProject 
+2024-05-24 15:13:10,987 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:10,987 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:10,987 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:13:10,987 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:13:12,379 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:13:12,379 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:13:13,379 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:13:13,379 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:13:13,380 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:13,380 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:13,380 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:13:13,380 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:13:13,381 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:13:13,381 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:13:13,381 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:13:13,381 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:13:19,385 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:13:19,385 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:13:19,386 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:19,386 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:19,387 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:13:19,387 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:13:19,387 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:13:19,387 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:13:19,388 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:13:19,388 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:13:20,392 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:13:20,392 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:13:20,393 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:20,393 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:20,394 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:13:20,394 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:13:20,394 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:13:20,394 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:13:20,394 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:13:20,394 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:13:21,397 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:13:21,397 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:13:21,398 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:21,398 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:21,398 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:13:21,398 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:13:21,400 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:13:21,400 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:13:21,401 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:13:21,401 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:13:55,511 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:13:55,511 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:13:55,512 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:55,512 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:55,514 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:13:55,514 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:13:58,430 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:13:58,430 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:13:58,431 - API - INFO - Sn3DEndScan 
+2024-05-24 15:13:58,431 - API - INFO - Sn3DEndScan 
+2024-05-24 15:13:58,432 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:58,432 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:13:58,432 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:13:58,432 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:14:10,716 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:14:10,716 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:14:10,726 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:14:10,726 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:14:10,727 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:14:10,727 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:14:10,727 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:14:10,727 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:19:03,562 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:03,562 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:04,564 - API - INFO - Callback registered successfully.
+2024-05-24 15:19:04,564 - API - INFO - Callback registered successfully.
+2024-05-24 15:19:24,093 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:19:24,093 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:19:32,095 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:19:32,095 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:19:32,095 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:32,095 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:32,095 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:19:32,095 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:19:34,140 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:19:34,140 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:19:35,143 - API - INFO - Sn3DNewProject 
+2024-05-24 15:19:35,143 - API - INFO - Sn3DNewProject 
+2024-05-24 15:19:35,143 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:35,143 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:35,144 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:19:35,144 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:19:36,496 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:19:36,496 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:19:37,498 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:19:37,498 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:19:37,500 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:37,500 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:37,501 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:19:37,501 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:19:37,501 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:19:37,501 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:19:37,503 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:19:37,503 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:19:43,504 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:19:43,504 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:19:43,505 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:43,505 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:43,505 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:19:43,505 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:19:43,506 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:19:43,506 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:19:43,506 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:19:43,506 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:19:44,510 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:19:44,510 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:19:44,511 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:44,511 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:44,511 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:19:44,511 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:19:44,512 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:19:44,512 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:19:44,512 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:19:44,512 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:19:45,516 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:19:45,516 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:19:45,517 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:45,517 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:19:45,518 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:19:45,518 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:19:45,518 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:19:45,518 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:19:45,518 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:19:45,518 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:20:19,621 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:20:19,621 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:20:19,622 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:20:19,622 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:20:19,623 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:20:19,623 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:20:22,841 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:20:22,841 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:20:22,842 - API - INFO - Sn3DEndScan 
+2024-05-24 15:20:22,842 - API - INFO - Sn3DEndScan 
+2024-05-24 15:20:22,842 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:20:22,842 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:20:22,843 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:20:22,843 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:20:34,870 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:20:34,870 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:20:34,873 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:20:34,873 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:20:34,873 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:20:34,873 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:20:34,874 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:20:34,874 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:30:25,909 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:30:25,909 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:30:26,909 - API - INFO - Callback registered successfully.
+2024-05-24 15:30:26,909 - API - INFO - Callback registered successfully.
+2024-05-24 15:30:45,222 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:30:45,222 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:30:53,224 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:30:53,224 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:30:53,224 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:30:53,224 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:30:53,225 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:30:53,225 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:30:55,277 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:30:55,277 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:30:56,279 - API - INFO - Sn3DNewProject 
+2024-05-24 15:30:56,279 - API - INFO - Sn3DNewProject 
+2024-05-24 15:30:56,280 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:30:56,280 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:30:56,280 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:30:56,280 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:30:57,600 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:30:57,600 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:30:58,602 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:30:58,602 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:30:58,603 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:30:58,603 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:30:58,604 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:30:58,604 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:30:58,604 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:30:58,604 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:30:58,605 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:30:58,605 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:31:04,606 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:31:04,606 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:31:04,608 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:04,608 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:04,608 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:31:04,608 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:31:04,608 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:31:04,608 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:31:04,609 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:31:04,609 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:31:05,612 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:31:05,612 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:31:05,613 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:05,613 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:05,613 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:31:05,613 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:31:05,614 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:31:05,614 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:31:05,614 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:31:05,614 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:31:06,617 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:31:06,617 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:31:06,618 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:06,618 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:06,619 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:31:06,619 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:31:06,619 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:31:06,619 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:31:06,619 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:31:06,619 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:31:40,731 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:31:40,731 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:31:40,732 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:40,732 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:40,733 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:31:40,733 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:31:43,845 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:31:43,845 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:31:43,847 - API - INFO - Sn3DEndScan 
+2024-05-24 15:31:43,847 - API - INFO - Sn3DEndScan 
+2024-05-24 15:31:43,847 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:43,847 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:43,848 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:31:43,848 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:31:56,673 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:31:56,673 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:31:56,677 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:31:56,677 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:31:56,677 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:56,677 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:31:56,678 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:31:56,678 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:36:11,010 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:11,010 - API - INFO - Sn3DInitialize function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:12,011 - API - INFO - Callback registered successfully.
+2024-05-24 15:36:12,011 - API - INFO - Callback registered successfully.
+2024-05-24 15:36:29,687 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:36:29,687 - API - INFO - Sn3DLaunchService completed. Software is open.
+2024-05-24 15:36:37,690 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:36:37,690 - API - INFO - Sn3DSetScanMode 
+2024-05-24 15:36:37,690 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:37,690 - API - INFO - Sn3DSetScanMode function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:37,691 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:36:37,691 - API - INFO - Sn3DSetScanMode function starts...
+2024-05-24 15:36:39,734 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:36:39,734 - API - INFO - Sn3DSetScanMode function successfully executed by FreeScan SDK.
+2024-05-24 15:36:40,737 - API - INFO - Sn3DNewProject 
+2024-05-24 15:36:40,737 - API - INFO - Sn3DNewProject 
+2024-05-24 15:36:40,738 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:40,738 - API - INFO - Sn3DNewProject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:40,738 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:36:40,738 - API - INFO - Sn3DNewProject function starts...
+2024-05-24 15:36:41,968 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:36:41,968 - API - INFO - Sn3DNewProject function successfully executed by FreeScan SDK.
+2024-05-24 15:36:42,970 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:36:42,970 - API - INFO - Sn3DSetScanPars 
+2024-05-24 15:36:42,971 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:42,971 - API - INFO - Sn3DSetScanPars function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:42,971 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:36:42,971 - API - INFO - Sn3DSetScanPars function starts...
+2024-05-24 15:36:42,972 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:36:42,972 - API - INFO - Sn3DSetScanPars has no need_wait.
+2024-05-24 15:36:42,972 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:36:42,972 - API - INFO - Sn3DSetScanPars function successfully executed by FreeScan SDK.
+2024-05-24 15:36:48,974 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:36:48,974 - API - INFO - Sn3DSetLaserGrade 
+2024-05-24 15:36:48,975 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:48,975 - API - INFO - Sn3DSetLaserGrade function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:48,975 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:36:48,975 - API - INFO - Sn3DSetLaserGrade function starts...
+2024-05-24 15:36:48,976 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:36:48,976 - API - INFO - Sn3DSetLaserGrade has no need_wait.
+2024-05-24 15:36:48,976 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:36:48,976 - API - INFO - Sn3DSetLaserGrade function successfully executed by FreeScan SDK.
+2024-05-24 15:36:49,979 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:36:49,979 - API - INFO - Sn3DChangeBrightStep 
+2024-05-24 15:36:49,979 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:49,979 - API - INFO - Sn3DChangeBrightStep function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:49,980 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:36:49,980 - API - INFO - Sn3DChangeBrightStep function starts...
+2024-05-24 15:36:49,980 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:36:49,980 - API - INFO - Sn3DChangeBrightStep has no need_wait.
+2024-05-24 15:36:49,981 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:36:49,981 - API - INFO - Sn3DChangeBrightStep function successfully executed by FreeScan SDK.
+2024-05-24 15:36:50,985 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:36:50,985 - API - INFO - Sn3DSetScanObject 
+2024-05-24 15:36:50,986 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:50,986 - API - INFO - Sn3DSetScanObject function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:36:50,986 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:36:50,986 - API - INFO - Sn3DSetScanObject function starts...
+2024-05-24 15:36:50,987 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:36:50,987 - API - INFO - Sn3DSetScanObject has no need_wait.
+2024-05-24 15:36:50,987 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:36:50,987 - API - INFO - Sn3DSetScanObject function successfully executed by FreeScan SDK.
+2024-05-24 15:37:01,990 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:37:01,990 - API - INFO - Sn3DPauseScan 
+2024-05-24 15:37:01,991 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:37:01,991 - API - INFO - Sn3DPauseScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:37:01,992 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:37:01,992 - API - INFO - Sn3DPauseScan function starts...
+2024-05-24 15:37:04,140 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:37:04,140 - API - INFO - Sn3DPauseScan function successfully executed by FreeScan SDK.
+2024-05-24 15:37:04,141 - API - INFO - Sn3DEndScan 
+2024-05-24 15:37:04,141 - API - INFO - Sn3DEndScan 
+2024-05-24 15:37:04,142 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:37:04,142 - API - INFO - Sn3DEndScan function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:37:04,143 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:37:04,143 - API - INFO - Sn3DEndScan function starts...
+2024-05-24 15:37:11,792 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:37:11,792 - API - INFO - Sn3DEndScan function successfully executed by FreeScan SDK.
+2024-05-24 15:37:11,796 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:37:11,796 - API - INFO - Sn3DSaveMesh 
+2024-05-24 15:37:11,796 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:37:11,796 - API - INFO - Sn3DSaveMesh function successfully received from FreeScan SDK. (result=0)
+2024-05-24 15:37:11,797 - API - INFO - Sn3DSaveMesh function starts...
+2024-05-24 15:37:11,797 - API - INFO - Sn3DSaveMesh function starts...
